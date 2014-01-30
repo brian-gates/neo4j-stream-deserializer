@@ -1,6 +1,6 @@
 {
   "name": "neo4j-stream-deserializer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Transforms neo4j responses to an easier-to-use format.",
   "main": "index.js",
   "directories": {
