@@ -1,4 +1,4 @@
-# neo4j-stream-deserializer
+# neo4j-stream-deserializer [![devDependency Status](https://david-dm.org/brian-gates/neo4j-stream-deserializer.png?theme=shields.io)](https://david-dm.org/brian-gates/neo4j-stream-deserializer.png#info=devDependencies)
 
 Streams neo4j responses as formatted objects.
 
