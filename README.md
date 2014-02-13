@@ -1,5 +1,7 @@
 # neo4j-stream-deserializer [![Build Status](https://travis-ci.org/brian-gates/neo4j-stream-deserializer.png?branch=master)](https://travis-ci.org/brian-gates/neo4j-stream-deserializer) [![devDependency Status](https://david-dm.org/brian-gates/neo4j-stream-deserializer.png?theme=shields.io)](https://david-dm.org/brian-gates/neo4j-stream-deserializer.png#info=devDependencies)
 
+Project no longer maintained since [cypher-stream](https://github.com/brian-gates/cypher-stream) now depends on [oboe.js](https://github.com/jimhigson/oboe.js) instead.
+
 Streams neo4j responses as formatted objects.
 
 A typical neo4j response:
